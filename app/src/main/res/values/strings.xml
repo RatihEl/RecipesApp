@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="hello">Hello Ratih</string>
+    <string name="popular_recipes">Popular Recipes</string>
+    <string name="popular">Popular</string>
+    <string name="home">Home</string>
+    <string name="western">Western</string>
+    <string name="dessert">Dessert</string>
+    <string name="drinks">Drinks</string>
+</resources>
